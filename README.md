@@ -4,7 +4,9 @@
 + vscode 插件 [link](https://github.com/denoland/vscode_deno)
 
 ## 用例 
-+ http native `deno compile --unstable --allow-all -o dist/http http.ts`
++ http native 
+  + `deno compile --unstable --allow-all -o dist/http http.ts`
+  +
 
 ## 编译
 > 编译可执行产物 
